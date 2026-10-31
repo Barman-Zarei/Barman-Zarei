@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi, I'm Barman Zarei!</h1><p align="center">
-  💻 Python Backend Developer | Open-Source Developer
-</p><p align="center">
-  🚀 Building software, exploring technology, and creating open-source projects.
-</p>---
+👋 Hi, I'm Barman Zarei!
+
+💻 Python Backend Developer | Open-Source Developer
+
+Welcome to my GitHub profile! 🚀
 
 🛠️ Technologies & Skills
 
@@ -12,8 +12,6 @@
 - 🗄️ SQL & NoSQL
 - 🖥️ Desktop Application Development
 - 🐧 Operating System Development
-
-
 
 🚀 My Projects
 
@@ -26,36 +24,26 @@
 - 🛒 DigiShop — My Django-based online shopping project.
 - 📒 AddressBook — My address book application.
 
-
-
 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Barman-Zarei&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barman-Zarei&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>---
-
-🏆 GitHub Trophies
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barman-Zarei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Barman-Zarei&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-</p>---
-
-🐍 Contribution Snake
+</p>🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Barman-Zarei/Barman-Zarei/output/github-snake.svg" alt="Contribution Snake Animation" />
-</p>---
-
-🎯 My Goals
+  <img src="https://raw.githubusercontent.com/Barman-Zarei/Barman-Zarei/output/github-snake.svg" alt="Contribution Snake" />
+</p>🎯 My Goals
 
 - 🌟 Build useful open-source software.
 - 🤝 Collaborate with developers around the world.
 - 📈 Improve my programming skills.
 - 💡 Create innovative tools for older and low-end computers.
-
-
 
 📫 Find Me on GitHub
 
