@@ -15,12 +15,14 @@ Welcome to my GitHub profile! 🚀
 
 🚀 My Projects
 
-- 🧠 Brok — My AI assistant project.
-- 💻 NX — My operating system project.
-- 🏗️ Buildbix — My AI-powered building project.
-- 🛡️ DefendKing — My Python package.
+- 🧠 "Brok" (https://github.com/Barman-Zarei/Brok) — My AI assistant project.
+- 💻 "NX" (https://github.com/Barman-Zarei/NX) — My operating system project.
+- 🏗️ "Buildbix" (https://github.com/Barman-Zarei/buildbix) — My AI-powered building project.
+- 🛡️ "DefendKing" (https://github.com/Barman-Zarei/defendking) — My Python package.
 - 🧩 NX Studio Code — My development tools project.
 - ➗ MathX — My mathematics project.
+- 🛒 "DigiShop" (https://github.com/Barman-Zarei/digishop) — My Django-based online shopping project.
+- 📒 AddressBook — My address book application.
 
 🎯 My Goals
 
