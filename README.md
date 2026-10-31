@@ -27,13 +27,9 @@ Welcome to my GitHub profile! 🚀
 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barman-Zarei&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Barman-Zarei&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barman-Zarei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Barman-Zarei&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Barman-Zarei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>🐍 Contribution Snake
 
 <p align="center">
