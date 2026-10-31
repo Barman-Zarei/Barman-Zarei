@@ -30,10 +30,6 @@ Welcome to my GitHub profile! 🚀
   <img src="https://github-stats-extended.vercel.app/api?username=Barman-Zarei&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </p><p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Barman-Zarei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Barman-Zarei/Barman-Zarei/output/github-snake.svg" alt="Contribution Snake" />
 </p>🎯 My Goals
 
 - 🌟 Build useful open-source software.
