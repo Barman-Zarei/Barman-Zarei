@@ -24,6 +24,20 @@ Welcome to my GitHub profile! 🚀
 - 🛒 DigiShop — My Django-based online shopping project.
 - 📒 AddressBook — My address book application.
 
+📊 GitHub Statistics
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Barman-Zarei&show_icons=true&theme=tokyonight&hide_border=true)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Barman-Zarei&layout=compact&theme=tokyonight&hide_border=true)
+
+🏆 GitHub Trophies
+
+"GitHub Trophies" (https://github-profile-trophy.vercel.app/?username=Barman-Zarei&theme=tokyonight&no-frame=true&margin-w=4)
+
+🐍 Contribution Snake
+
+"Contribution Snake" (https://raw.githubusercontent.com/Barman-Zarei/Barman-Zarei/output/github-snake.svg)
+
 🎯 My Goals
 
 - 🌟 Build useful open-source software.
