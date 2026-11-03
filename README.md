@@ -27,9 +27,9 @@ Welcome to my GitHub profile! 🚀
 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Barman-Zarei&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Barman-Zarei&show_icons=true&theme=tokyonight&hide_border=true&nocache=1" alt="GitHub Statistics" />
 </p><p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Barman-Zarei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Barman-Zarei&layout=compact&theme=tokyonight&hide_border=true&nocache=1" alt="Top Languages" />
 </p>🎯 My Goals
 
 - 🌟 Build useful open-source software.
