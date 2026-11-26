@@ -4,7 +4,7 @@ Software Developer | Python Backend | AI-Powered Tools | Open Source
 
 I build software, developer tools, and practical solutions across backend development, artificial intelligence, desktop applications, and operating-system engineering.
 
-My work focuses on creating useful, maintainable, and accessible software — including tools designed to work on older and resource-constrained computers.
+My work focuses on creating useful, maintainable, and accessible software, including tools designed to work on older and resource-constrained computers.
 
 I enjoy turning ideas into real projects, exploring new technologies, and contributing to the open-source ecosystem.
 
@@ -17,69 +17,59 @@ I enjoy turning ideas into real projects, exploring new technologies, and contri
 - Desktop Development: Creating desktop applications and developer tools.
 - System Engineering: Exploring Linux distributions, operating-system tooling, and software compatibility.
 - Open Source: Building independent projects and collaborating with developers around the world.
-- Performance & Compatibility: Exploring ways to make modern software more accessible on older and low-resource hardware.
+- Performance & Compatibility: Exploring ways to make modern software accessible on older and resource-constrained computers.
 
 ---
 
-🛠️ Technologies & Technical Interests
+🛠️ Technologies & Skills
 
 Programming Languages
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,js,html,css" alt="Programming Languages" />
+</p>Backend & Frameworks
 
-Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" alt="Backend Technologies" />
+</p>Databases
 
-"Django" (https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-"Flask" (https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-"REST API" (https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" alt="Database Technologies" />
+</p>Desktop & Operating Systems
 
-Databases & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=qt,kivy,linux,ubuntu,windows" alt="Desktop and Operating System Technologies" />
+</p>Development Tools & Platforms
 
-"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-"NoSQL" (https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge)
-
-Desktop & System Development
-
-"Kivy" (https://img.shields.io/badge/Kivy-3D7EBB?style=for-the-badge)
-"PySide" (https://img.shields.io/badge/PySide-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-Development & Collaboration
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"GitHub Actions" (https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,pycharm,docker" alt="Development Tools" />
+</p>---
 
 🌟 Featured Projects
 
-I work on a range of independent open-source projects, from AI-powered applications to developer infrastructure and security tools.
+I develop open-source projects covering AI applications, operating systems, developer tools, cybersecurity, and web development.
 
 🧠 "Brok" (https://github.com/Barman-Zarei/Brok)
 
-AI Desktop Companion & Permission-Controlled Coding Agent
+AI Desktop Companion & Coding Agent
 
-A Persian-first AI desktop assistant that combines conversational AI, coding assistance, project analysis, and controlled tool execution.
+A Persian-first AI desktop assistant combining conversational AI, coding assistance, project analysis, and controlled tool execution.
 
 - Supports local AI through Ollama and cloud AI providers.
-- Includes a coding workspace and terminal agent.
-- Uses permission levels and explicit confirmations for sensitive actions.
+- Provides coding assistance and development workflows.
+- Uses permission controls and explicit confirmations for sensitive actions.
 - Supports multiple interface languages.
 
-🐧 "NX OS" (https://github.com/Barman-Zarei/NX)
+🐧 "NX" (https://github.com/Barman-Zarei/NX)
 
 Independent Ubuntu-Based Linux Distribution
 
-An operating-system project exploring a modular Linux environment with a long-term vision of system-wide AI integration through Brok.
+An operating-system project exploring a modular Linux environment with a vision of system-wide AI integration through Brok.
 
-- Includes operating-system and ISO build tooling.
+- Includes ISO build and installation tooling.
 - Explores compatibility with older hardware.
-- Includes dedicated legacy-development resources.
-- Focuses on modularity, compatibility, and verifiable development.
-
-Development status: Experimental.
+- Provides dedicated legacy-development resources.
+- Focuses on modularity, compatibility, and reliability.
 
 🏗️ "BuildBix" (https://github.com/Barman-Zarei/Buildbix)
 
@@ -89,10 +79,8 @@ A cloud-oriented build automation project designed to bring project importing, a
 
 - Backend, web dashboard, and CLI.
 - Project analysis and build planning.
-- AI-assisted automation and proposal workflows.
-- Integration architecture for external build services.
-
-Development status: Early prototype.
+- AI-assisted automation workflows.
+- Architecture for external build-service integrations.
 
 🛡️ "DefendKing" (https://github.com/Barman-Zarei/defendking)
 
@@ -100,7 +88,6 @@ Defensive Python Security Toolkit
 
 A Python security package focused on defensive security, detection, protection, and reporting.
 
-- Around 70 functions across 9 sections.
 - Password and authentication security.
 - Phishing and suspicious URL detection.
 - Web application and network security utilities.
@@ -110,13 +97,12 @@ A Python security package focused on defensive security, detection, protection, 
 
 AI-Assisted Code Editor & Developer Platform
 
-A VS Code-based development environment with additional tools for the software delivery lifecycle.
+A VS Code-based development environment with additional tools for the software development lifecycle.
 
-- Built-in CI/CD and release tooling.
+- Developer productivity enhancements.
+- CI/CD and release tooling.
 - Secret scanning capabilities.
-- Approval-first AI agent.
-- Developer-focused workflow enhancements.
-- Designed with performance and older hardware in mind.
+- AI-assisted development workflows.
 
 ➗ "MathX" (https://github.com/Barman-Zarei/MathX)
 
@@ -134,40 +120,64 @@ An online shopping project developed with Django, exploring web application arch
 
 Contact Management Application
 
-A contact management project focused on organizing application data and implementing practical backend functionality.
+A contact management application focused on organizing data and implementing practical application functionality.
 
 ---
 
 📊 GitHub Analytics
 
+🏆 Profile Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Barman-Zarei&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophies" />
-</p><p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Barman-Zarei&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Profile Trophies" />
+</p>📈 GitHub Overview
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Barman-Zarei&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barman-Zarei&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Programming Languages" />
-</p><p align="center">
+</p>💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barman-Zarei&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Most Used Programming Languages" />
+</p>🔥 Contribution Streak
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Barman-Zarei&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p><p align="center">
+</p>📅 Contribution Activity
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barman-Zarei&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" />
-</p>Note: These statistics are generated by third-party services. Language distribution represents repository code, not necessarily individual proficiency. Some statistics may be affected by caching and service availability.
+</p>Note: GitHub statistics are generated by third-party services. Language distribution represents repository code rather than individual proficiency. Statistics may be affected by caching, API limitations, and service availability.
 
 ---
 
-🏢 Open-Source Organization
+🏢 My Open-Source Organizations
 
-"Nexora" (https://github.com/Nexora)
+I manage and develop projects across two GitHub organizations, each with its own focus and software ecosystem.
 
-Nexora is my open-source organization for developing and maintaining software projects.
+🧠 "Brok-AI" (https://github.com/Brok-AI)
 
-Its project ecosystem includes:
+AI Development & Intelligent Software
 
-- NX
-- Brok
-- NX Studio Code
-- BuildBix
+Brok-AI is dedicated to developing intelligent software and AI-powered applications.
 
-The goal is to build useful software, encourage collaboration, and develop projects with a long-term engineering vision.
+Main Project:
+
+- 🧠 Brok — An AI-powered desktop companion and coding agent combining intelligent assistance, development workflows, and controlled tool execution.
+
+🚀 "Nexora-Techno" (https://github.com/Nexora-Techno)
+
+Software Engineering & Open-Source Development
+
+Nexora-Techno focuses on developing software products, developer tools, operating-system technologies, and security solutions.
+
+Projects:
+
+- 🛡️ DefendKing — A Python-based defensive security toolkit.
+- 🐧 NX — An independent Ubuntu-based Linux distribution.
+- 💻 NX Studio Code — An enhanced code editor and developer platform.
+- 🏗️ BuildBix — An AI-assisted cloud build and automation platform.
+
+Both organizations represent different parts of my open-source development journey, with a shared focus on building practical, accessible, and useful software.
 
 ---
 
@@ -204,8 +214,9 @@ Contributions, constructive feedback, bug reports, and new ideas are always welc
 📫 Connect With Me
 
 - GitHub: "@Barman-Zarei" (https://github.com/Barman-Zarei)
-- Projects: "Explore my repositories" (https://github.com/Barman-Zarei?tab=repositories)
-- Organization: "Nexora" (https://github.com/Nexora)
+- Repositories: "Explore my projects" (https://github.com/Barman-Zarei?tab=repositories)
+- Brok-AI: "GitHub Organization" (https://github.com/Brok-AI)
+- Nexora-Techno: "GitHub Organization" (https://github.com/Nexora-Techno)
 
 If you find something interesting in my work, consider giving the repository a ⭐ or contributing to its development.
 
